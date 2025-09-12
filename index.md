@@ -1,9 +1,8 @@
 <div align="center">
 
 Welcome to **Pepeto (PETO)** – the community-driven memecoin on Solana.  
+
 Our mission is simple: **combine meme culture with sustainable tokenomics**.  
-
-
 
 <img src="assets/logo.png" width="150">
 
@@ -29,6 +28,7 @@ Pepeto is not just a meme – it’s a project with **transparent tokenomics, lo
 
 ## 📊 Tokenomics
 👉 [Check our tokenomics](tokenomics.md)
+
 | Allocation              | %    | Tokens              |
 |--------------------------|------|---------------------|
 | Dev Wallet / Liquidity   | 10%  | 10,000,000,000 PETO |
@@ -58,8 +58,9 @@ Pepeto is not just a meme – it’s a project with **transparent tokenomics, lo
 ---
 
 ## 💰 Pre-Sale
-- 👉 [Check our pre-sale](presale.md)
 - **Total Allocation:** 5% (5,000,000,000 PETO)
+- 👉 [Check our pre-sale](presale.md)
+
 ---
 
 ## 📢 Community
