@@ -4,7 +4,7 @@
 
 Our mission is simple: <b>combine meme culture with sustainable tokenomics</b>.</p>  
 
-<img src="assets/logo.png" width="150">
+<img src="assets/logo.png" width="250">
 
 </div>
 
