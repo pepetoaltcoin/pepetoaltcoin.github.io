@@ -14,3 +14,5 @@ A: Initially low liquidity for small-cap launch, but we will add more using pre-
 
 **Q: Where can I follow updates?**  
 A: Twitter (https://x.com/PepetoAltCoin), Instagram (https://www.instagram.com/pepetoaltcoin/), and GitHub Pages (https://pepetoaltcoin.github.io)
+
+<img src="assets/logo.png" width="50"> [Home Page](index.md)
