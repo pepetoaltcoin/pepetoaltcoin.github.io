@@ -1,0 +1,11 @@
+{
+  "name": "Pepeto",
+  "symbol": "PETO",
+  "description": "Pepeto is a community-driven memecoin on Solana with locked liquidity, burns, and structured vesting.",
+  "image": "https://pepetoaltcoin.github.io/assets/logo.png",
+  "extensions": {
+    "website": "https://pepetoaltcoin.github.io/",
+    "twitter": "https://x.com/PepetoAltCoin",
+    "instagram": "https://www.instagram.com/pepetoaltcoin/"
+  }
+}
