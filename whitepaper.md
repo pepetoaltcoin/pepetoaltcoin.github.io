@@ -107,7 +107,7 @@ Community-driven initiatives include airdrops and incentive programs to keep eng
 ---
 
 ## 🪙 Metadata & Branding
-- **Token Logo:** hosted on GitHub Pages (`logo.png`)  
+- **Token Logo:** hosted on GitHub Pages <img src="assets/logo.png" width="25"> 
 - **Official Metadata:** linked to GitHub Pages for authenticity  
 - Consistent branding across Solana explorers, DEXs, and wallets.  
 
