@@ -71,5 +71,6 @@ Pepeto is not just a meme – it’s a project with **transparent tokenomics, lo
 
 <div align="center">
 
-**Join the Black Cat Revolution!** 🐾  
+<b>Join the Black Cat Revolution!</b> 🐾  
+<img src="assets/logo.png" width="50">
 </div>
