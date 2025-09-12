@@ -66,7 +66,7 @@ Pepeto is not just a meme – it’s a project with **transparent tokenomics, lo
 ## 📢 Community
 - 🐦 [Twitter](https://x.com/PepetoAltCoin)  
 - 📸 [Instagram](https://www.instagram.com/pepetoaltcoin/)  
-- 💻 [GitHub](README.md)
+- 💻 [GitHub](https://github.com/pepetoaltcoin/pepetoaltcoin.github.io?tab=readme-ov-file#-pepeto-peto)
 - ❓ [FAQ](faq.md)  
 
 <div align="center">
