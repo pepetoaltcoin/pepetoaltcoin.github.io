@@ -13,6 +13,14 @@ A: Yes, total supply is 100,000,000,000 tokens with no inflation.
 A: Initially low liquidity for small-cap launch, but we will add more using pre-sale funds on Raydium.
 
 **Q: Where can I follow updates?**  
-A: Twitter (https://x.com/PepetoAltCoin), Instagram (https://www.instagram.com/pepetoaltcoin/), and GitHub Pages (https://pepetoaltcoin.github.io)
+A: 
+  * Twitter (https://x.com/PepetoAltCoin)
+  * Instagram (https://www.instagram.com/pepetoaltcoin/)
+  * GitHub Pages (https://pepetoaltcoin.github.io)
+
+<div align="center">
+
+<b>Join the Black Cat Revolution!</b> 🐾  
+</div>
 
 <img src="assets/logo.png" width="50"> [Home Page](index.md)
