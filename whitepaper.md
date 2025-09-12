@@ -119,3 +119,7 @@ Pepeto Altcoin is not just another memecoin. With locked liquidity, structured v
 By blending meme culture with responsible tokenomics, Pepeto aims to stand out as both fun and trustworthy in the Solana ecosystem.  
 
 **Join the Pepeto revolution.** 🐾  
+
+---
+
+<img src="assets/logo.png" width="50"> [Home Page](index.md)
