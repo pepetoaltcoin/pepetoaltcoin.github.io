@@ -1,14 +1,14 @@
 <div align="center">
 
-Welcome to **Pepeto (PETO)** – the community-driven memecoin on Solana.  
+<p style="text-align:center;">Welcome to <b>Pepeto (PETO)</b> – the community-driven memecoin on Solana. 
 
-Our mission is simple: **combine meme culture with sustainable tokenomics**.  
+Our mission is simple: <b>combine meme culture with sustainable tokenomics</b>.</p>  
 
 <img src="assets/logo.png" width="150">
 
 </div>
 
-### CA: ``
+#### CA: ``
 
 ---
 
