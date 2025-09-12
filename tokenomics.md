@@ -19,3 +19,7 @@
 ![Burn Graph](assets/burn.png)
 
 > Transparency is key! The burn and vesting schedule ensure long-term value and community trust.
+
+---
+
+<img src="assets/logo.png" width="50"> [Home Page](index.md)
