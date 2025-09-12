@@ -29,3 +29,7 @@
 - [ ] Introduce staking & rewards  
 - [ ] Centralized exchange listings  
 - [ ] Partnerships with meme & pet communities  
+
+---
+
+<img src="assets/logo.png" width="50"> [Home Page](index.md)
