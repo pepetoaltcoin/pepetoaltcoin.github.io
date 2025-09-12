@@ -1,0 +1,8 @@
+title: "Pepeto (PETO)"
+description: "Decentralized Black Cat Revolution"
+theme: jekyll-theme-slate
+show_downloads: false
+logo: assets/logo.png
+
+include:
+  - assets/css/dark.css
