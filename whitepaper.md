@@ -1,5 +1,10 @@
 # 🐾 Pepeto Altcoin – Whitepaper
 
+<div align="center">
+<img src="assets/logo.png" width="300">
+</div>
+
+
 ## 📄 Abstract
 Pepeto Altcoin is a community-driven memecoin designed to combine the viral appeal of meme culture with the stability of transparent tokenomics. Built on the Solana blockchain, Pepeto aims to become more than just a meme — it’s a long-term project with structured vesting, fair allocations, and deflationary mechanics.  
 
