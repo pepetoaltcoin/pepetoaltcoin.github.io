@@ -16,4 +16,11 @@ Make sure to double-check your wallet address before sending SOL.
 
 > Tip: Pre-sale funds will be used to increase liquidity and fund marketing campaigns.
 
+---
+
+<div align="center">
+
+<b>Join the Black Cat Revolution!</b> 🐾  
+</div>
+
 <img src="assets/logo.png" width="50"> [Home Page](index.md)
