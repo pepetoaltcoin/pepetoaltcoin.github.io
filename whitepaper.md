@@ -13,7 +13,7 @@ While many memecoins launch and collapse quickly, Pepeto Altcoin is designed for
 ---
 
 ## 🪙 Token Overview
-- **Token Name:** Pepeto Altcoin  
+- **Token Name:** Pepeto  
 - **Ticker Symbol:** PETO  
 - **Blockchain:** Solana  
 - **Supply Type:** Fixed  
@@ -117,9 +117,13 @@ Community-driven initiatives include airdrops and incentive programs to keep eng
 Pepeto Altcoin is not just another memecoin. With locked liquidity, structured vesting, and a strong community, it’s designed for **long-term growth and sustainability**.  
 
 By blending meme culture with responsible tokenomics, Pepeto aims to stand out as both fun and trustworthy in the Solana ecosystem.  
-
-**Join the Pepeto revolution.** 🐾  
+ 
 
 ---
+
+<div align="center">
+
+<b>Join the Black Cat Revolution!</b> 🐾  
+</div>
 
 <img src="assets/logo.png" width="50"> [Home Page](index.md)
