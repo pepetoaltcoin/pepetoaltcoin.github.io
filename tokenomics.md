@@ -4,6 +4,8 @@
 
 > Here’s how the **100,000,000,000 tokens** are distributed:
 
+</div>
+
  | Allocation               | %    | Tokens              | Notes                      |
  |--------------------------|------|---------------------|----------------------------|
  | Dev Wallet / Liquidity   | 10%  | 10,000,000,000 PETO | Locked for minimum 5 years |
@@ -16,6 +18,5 @@
 
 ![Burn Graph](assets/burn.png)
 
-</div>
 
 > Transparency is key! The burn and vesting schedule ensure long-term value and community trust.
