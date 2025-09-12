@@ -32,4 +32,9 @@
 
 ---
 
+<div align="center">
+
+<b>Join the Black Cat Revolution!</b> 🐾  
+</div>
+
 <img src="assets/logo.png" width="50"> [Home Page](index.md)
