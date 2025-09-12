@@ -1,14 +1,15 @@
-<div align="center">
-
-# 🐾 Pepeto (PETO)
 
 Welcome to **Pepeto (PETO)** – the community-driven memecoin on Solana.  
 Our mission is simple: **combine meme culture with sustainable tokenomics**.  
 
+<div align="center">
+
+
 <img src="assets/logo.png" width="150">
 
-### CA: ``
 </div>
+
+### CA: ``
 
 ---
 
