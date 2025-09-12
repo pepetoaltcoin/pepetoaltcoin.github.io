@@ -15,3 +15,5 @@ Example:
 Make sure to double-check your wallet address before sending SOL.  
 
 > Tip: Pre-sale funds will be used to increase liquidity and fund marketing campaigns.
+
+<img src="assets/logo.png" width="50"> [Home Page](index.md)
