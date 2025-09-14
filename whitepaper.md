@@ -23,7 +23,7 @@ While many memecoins launch and collapse quickly, Pepeto Altcoin is designed for
 - **Blockchain:** Solana  
 - **Supply Type:** Fixed  
 - **Total Supply:** 100,000,000,000 (100B)  
-- **Decimals:** 6  
+- **Decimals:** 9  
 
 ---
 
