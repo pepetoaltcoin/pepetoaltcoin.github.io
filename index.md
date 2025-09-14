@@ -22,7 +22,7 @@ Pepeto is not just a meme – it’s a project with **transparent tokenomics, lo
 - **Ticker:** PETO  
 - **Blockchain:** Solana  
 - **Total Supply:** 100,000,000,000 (100B)  
-- **Decimals:** 6  
+- **Decimals:** 9  
 
 ---
 
