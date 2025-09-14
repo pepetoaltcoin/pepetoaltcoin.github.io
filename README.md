@@ -18,7 +18,7 @@ Pepeto combines **meme culture** with **sustainable tokenomics**, creating a pro
 - **Ticker:** PETO  
 - **Blockchain:** Solana  
 - **Total Supply:** 100,000,000,000 (100B)  
-- **Decimals:** 6  
+- **Decimals:** 9  
 - **Supply Type:** Fixed  
 
 ---
